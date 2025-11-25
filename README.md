@@ -34,19 +34,19 @@ Supplementary materials supporting the manuscript:
 
 | File | Description |
 |------|-------------|
-| `Figure_S1` | [سيضاف الوصف] |
-| `Figure_S2` | [سيضاف الوصف] |
-| `Figure_S3` | [سيضاف الوصف] |
-| `Figure_S4` | [سيضاف الوصف] |
-| `Figure_S5` | [سيضاف الوصف] |
-| `Figure_S6` | [سيضاف الوصف] |
+| `Figure_S1` | Graphical abstract: Study overview and key findings |
+| `Figure_S2` | Distribution of pillar counts across 103 tools |
+| `Figure_S3` | Overall adoption rates for six reproducibility pillars |
+| `Figure_S4` | Domain-wise adoption heatmap (Health, Pharma, Chemistry) |
+| `Figure_S5` | Pillar co-occurrence matrix showing pairwise associations |
+| `Figure_S6` | Odds ratios for pillar associations (forest plot) |
 
 ---
 
 ## 🔗 Persistent Archive
 
 Platform documentation (103 PDF files) archived at Zenodo:  
-**DOI:** `[سيضاف عند اكتمال Zenodo]`
+**DOI:** `https://doi.org/10.5281/zenodo.17715417`
 
 ---
 
