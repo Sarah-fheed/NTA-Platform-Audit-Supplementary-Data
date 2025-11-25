@@ -8,13 +8,13 @@ Supplementary materials supporting the manuscript:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 **N = 103 tools** | **3 domains** | **6 reproducibility pillars** | **21 years (2004-2025)**
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### Supplementary Tables (Excel)
 
@@ -43,27 +43,25 @@ Supplementary materials supporting the manuscript:
 
 ---
 
-## 🔗 Persistent Archive
+## Persistent Archive
 
 Platform documentation (103 PDF files) archived at Zenodo:  
 **DOI:** `https://doi.org/10.5281/zenodo.17715417`
 
 ---
 
-## 📖 Citation
-
-[سيضاف عند النشر]
+## Citation
 
 ---
 
-## 📜 License
+## License
 
 **Data:** CC BY 4.0  
 **Code:** (if applicable) MIT License
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions regarding the data, please contact: [email address]# NTA-Platform-Audit-Supplementary-Data
 Supplementary tables and figures for: Architectural audit of 103 LC/GC-HRMS non-targeted analysis tools
