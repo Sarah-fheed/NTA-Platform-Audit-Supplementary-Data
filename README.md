@@ -58,10 +58,3 @@ Platform documentation (103 PDF files) archived at Zenodo:
 
 **Data:** CC BY 4.0  
 **Code:** (if applicable) MIT License
-
----
-
-## Contact
-
-For questions regarding the data, please contact: [email address]# NTA-Platform-Audit-Supplementary-Data
-Supplementary tables and figures for: Architectural audit of 103 LC/GC-HRMS non-targeted analysis tools
